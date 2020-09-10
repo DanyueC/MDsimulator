@@ -6,6 +6,9 @@ Blueprint-CPK.uasset and Blueprint-VDW.uasset contains blueprint scripts of VDW 
 A demonstration video
 - Demo.mp4
 
+A trajectory file for demo
+- alaninedipep_trajectory.pdb
+
 Blueprint function C++ Class
 - ATOM.h              // load atoms position array
 - ATOM.cpp
