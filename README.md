@@ -14,3 +14,7 @@ Blueprint function C++ Class
 
  A logo for this software
 - Logo.png
+
+Important:
+The software cannot load files chose by users. If users want to change the simulated file, they have to modify the file path in the code.
+They are located in CPK.cpp line 33 and ATOM.cpp line 211
